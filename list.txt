@@ -9,7 +9,11 @@ MEAT
 Sausages
 
 DAIRY
-
+milk
+Eggs
+yoghurt
+Butter
+cheese
 
 HOUSEHOLD
 
